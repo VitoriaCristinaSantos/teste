@@ -1,0 +1,9 @@
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\bin\Debug\CalcVolume2.exe.config
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\bin\Debug\CalcVolume2.exe
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\bin\Debug\CalcVolume2.pdb
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\obj\Debug\CalcVolume2.csprojAssemblyReference.cache
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\obj\Debug\CalcVolume2.Form1.resources
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\obj\Debug\CalcVolume2.Properties.Resources.resources
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\obj\Debug\CalcVolume2.csproj.GenerateResource.cache
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\obj\Debug\CalcVolume2.exe
+C:\Users\vitcr\source\repos\CalcVolume2\CalcVolume2\obj\Debug\CalcVolume2.pdb
